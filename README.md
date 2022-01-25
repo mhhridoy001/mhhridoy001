@@ -2,7 +2,7 @@
 
 ### Hi there 👋, 
 ####I'm Mehedi Hasan Hridoy
-#### I'm Web Designer & Developer
+###I'm Web Designer & Developer
 
 I am student. I study at Feni Polytechnic govt. Institute. I always want to learn and want to know.
 
